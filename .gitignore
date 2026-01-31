@@ -1,0 +1,15 @@
+# Virtual environment
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+
+# Editor
+.vscode/
+
+# Tests
+.pytest_cache/
+
+# Data
+*.csv
+*.json
